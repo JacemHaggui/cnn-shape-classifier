@@ -2,7 +2,7 @@
 
 This project is a PyTorch-based Convolutional Neural Network (CNN) for classifying simple geometric shapes (circle, rectangle, square, ellipse, triangle) from grayscale PNG images.
 
-> 🔁 Looking for the **TensorFlow version**? Check it out here: [CNN Shape Classifier (TensorFlow)](https://github.com/JacemHaggui/cnn-shape-classifier-tensorflow)
+> 🔁 Looking for the **TensorFlow version**? Check it out here: [CNN Shape Classifier (TensorFlow)](https://github.com/JacemHaggui/cnn_shape_classifier_tensorflow)
 
 ## Project Structure
 
